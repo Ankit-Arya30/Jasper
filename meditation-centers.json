@@ -1,0 +1,46 @@
+{
+    "meditationCenters": [
+        {
+            "centerName": "Osho International Meditation Resort",
+            "location": "Pune, Maharashtra, India",
+            "description": "We can create the biggestand the most beautifulspiritual health club in the world. A kind of Club Med, as in Meditation",
+            "contactLink": "https://www.osho.com/osho-meditation-resort"
+        },
+        {
+            "centerName": "Auroville",
+            "location": "Puducherry, India",
+            "description": "Auroville wants to be a universal town where men and women of all countries are able to live in peace and progressive harmony above all creeds, all politics and all nationalities. The purpose of Auroville is to realise human unity.",
+            "contactLink": "https://auroville.org/"
+        },
+        {
+            "centerName": "The Art of Living International Centre",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Programs The Art of Living offers numerous, highly effective educational and self-development programs and tools that facilitate the elimination of stress. These tools also foster deep and profound inner peace, happiness, and well-being for all individuals.",
+            "contactLink": "https://www.artofliving.org/in-en"
+        },
+        {
+            "centerName": "Vipassana International Academy",
+            "location": "Igatpuri, Maharashtra, India",
+            "description": "Vipassana, which means to see things as they really are, is one of India's most ancient techniques of meditation. It was taught in India more than 2500 years ago as a universal remedy for universal ills, i.e., an Art of Living. For those who are not familiar with Vipassana Meditation, an Introduction to Vipassana by Mr. Goenka & related videos and Questions & Answers about Vipassana are available. All sincere people are welcome to join a Vipassana course to see for themselves how the technique works and to measure the benefits. All those who try it will find Vipassana to be an invaluable tool with which to achieve and share real happiness with others.",
+            "contactLink": "https://www.dhamma.org/en-US/index"
+        },
+        {
+            "centerName": "Krishnamurti Foundation",
+            "location": "Chennai, Tamil Nadu, India",
+            "description": "Krishnamurti Foundation India has its headquarters at Vasanta Vihar, 124-126 Greenways Road, R A Puram, Chennai 600028. Situated on a ground of 6½ acres, on a peaceful and tree filled setting, is the main building where Krishnaji lived during his visits to Chennai. He gave his first talk on the lawns of Vasanta Vihar in 1936, as well as his last talk in 1986. A few thousand people would attend the talks and morning discussions.",
+            "contactLink": "https://www.jkrishnamurti.in/"
+        },
+        {
+            "centerName": "Isha Yoga Centre",
+            "location": "elliangiri Mountains, Tamil Nadu, India",
+            "description": "Sadhguru Jaggi Vasudev Philosophy: To explore the science of inner well-being to realise the ultimate potential within. The place:  The headquarters of the Isha Foundation in India are spread across 150 acres and host a community of full-time volunteers, Brahmacharis and residents. There are four paths of yoga offered here—kriya (energy), gnana (knowledge), karma (action) and bhakti (devotion).",
+            "contactLink": "https://isha.sadhguru.org/in/en"
+        },
+        {
+            "centerName": "Parmarth Niketan",
+            "location": "Rishikesh, Uttarakhand, India",
+            "description": "Parmarth Niketan is a true spiritual haven, lying on the holy banks of Mother Ganga in the lap of the lush Himalayas. It is the largest ashram in Rishikesh, providing its thousands of pilgrims who come from all corners of the Earth with a clean, pure and sacred atmosphere as well as abundant, beautiful gardens.  Parmarth Niketan is located in Swargashram, just on the banks of the sacred Ganges River. ",
+            "contactLink": "https://www.parmarth.org/"
+        }
+    ]
+}
