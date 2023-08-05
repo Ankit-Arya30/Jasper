@@ -192,3 +192,112 @@ fieldset {
     width: 80%; /* Set the desired width for the fieldset, you can adjust the value as needed */
     margin: 0 auto; /* Center the fieldset horizontally within its container */
 }
+/* Rest of the CSS code */
+
+/* Styling for the Filter button */
+#filterBtn {
+    background-color: #00a8a8;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#filterBtn:hover {
+    background-color: #008b8b;
+}
+
+/* Styling for the Q&A button */
+.container a {
+    background-color: #008b8b;
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    transition: background-color 0.2s;
+    font-weight: bold;
+}
+
+.container a:hover {
+    background-color: #006c6c;
+}
+
+/* Styles for the About page */
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 1.1rem;
+    color: #555;
+}
+
+/* Styles for the Q&A page */
+.qna-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-size: 1.1rem;
+    color: #555;
+}
+/* Rest of the CSS code */
+
+/* Styling for the Filter button */
+#filterBtn {
+    background-color: #00a8a8;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#filterBtn:hover {
+    background-color: #008b8b;
+}
+
+/* Styling for the Q&A button */
+.container a {
+    background-color: #008b8b;
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    transition: background-color 0.2s;
+    font-weight: bold;
+}
+
+.container a:hover {
+    background-color: #006c6c;
+}
+
+/* Styles for the About page */
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f0f7f7;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px
