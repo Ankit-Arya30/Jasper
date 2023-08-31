@@ -4,6 +4,7 @@ Primary Azure Technology and Other Technologies Used:
    1. Azure Bot Service
    2. Static Web App
    3. Github
+      (Presentation video is available)
 ![Screenshot 2023-08-18 141745](https://github.com/Ankit-Arya30/Jasper/assets/136237098/df7832bf-c5f7-409e-b7e2-b96ccb157327)
 ![Screenshot 2023-08-18 141726](https://github.com/Ankit-Arya30/Jasper/assets/136237098/3ed9f349-9430-413e-b19b-7c5d3c390d16)
 ![Screenshot 2023-08-18 141708](https://github.com/Ankit-Arya30/Jasper/assets/136237098/a9edd8ff-e082-4150-aca9-c7c9a5b86f61)
