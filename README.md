@@ -1,4 +1,4 @@
-Static Site: INNER SERENITY - Find Meditation Centers
+Static Site: INNER SERENITY - Find Meditation Centers (https://youtu.be/9TGK06NIqGo?feature=shared)
 Welcome to INNER SERENITY, your destination for discovering meditation centers that can help you find inner peace and tranquility. Whether you're new to meditation or a seasoned practitioner, our platform makes it easy to locate meditation centers near you.
 Primary Azure Technology and Other Technologies Used:
    1. Azure Bot Service
