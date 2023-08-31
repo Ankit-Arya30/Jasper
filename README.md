@@ -14,5 +14,8 @@ Primary Azure Technology and Other Technologies Used:
 ![Screenshot 2023-08-18 141856](https://github.com/Ankit-Arya30/Jasper/assets/136237098/677306ae-d45c-4ebe-b793-2d63a8e5ab41)
 ![Screenshot 2023-08-18 141833](https://github.com/Ankit-Arya30/Jasper/assets/136237098/85d44cbd-10fb-4713-90e6-96a9e63f9099)
 ![Screenshot 2023-08-18 141821](https://github.com/Ankit-Arya30/Jasper/assets/136237098/efc15090-63e1-4533-9d4a-51915865ef12)
+![image](https://github.com/Ankit-Arya30/Jasper/assets/136237098/74a54c8f-6dcd-4ca1-a13e-9db233c77a01)
+![image](https://github.com/Ankit-Arya30/Jasper/assets/136237098/12d645d8-a461-4322-a53a-3a68b88a82d7)
+
 
 
